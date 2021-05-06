@@ -1,0 +1,11 @@
+import React from 'react';
+
+const TheirMessage=(props)=>{
+    console.log(props);
+    return(
+        <div>
+              My Message
+        </div>
+    )
+}
+export default TheirMessage;
